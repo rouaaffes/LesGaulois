@@ -32,6 +32,7 @@ public class Druide {
 		if (forcePotion > 7) {
 			parler("J'ai préparé une super potion de force" + forcePotion);
 		} else {
+
 			parler("Je n'ai pas trouvé tous les ingrédients, ma potion est seulement de force" + forcePotion);
 		}
 	}
