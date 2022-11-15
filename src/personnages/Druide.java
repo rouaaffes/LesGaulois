@@ -28,7 +28,7 @@ public class Druide {
 			resultat = random.nextInt(effetPotionMax);
 		}
 		forcePotion = resultat;
-		// hi
+		// hi bon
 		if (forcePotion > 7) {
 			parler("J'ai préparé une super potion de force" + forcePotion);
 		} else {
